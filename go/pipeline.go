@@ -65,7 +65,7 @@ func main() {
      selapsed := t.Sub(start);
      fmt.Printf("A sequential version using a for loop took %v to run (result=%d)\n", selapsed, ss)
 
-     /*Sequential version slows*/
+     /*Sequential version ends*/
 
      //fmt.Print("The parallel version is %f times slower than the sequential counterpart", pelapsed/selapsed)
      
