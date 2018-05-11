@@ -6,7 +6,7 @@ However, the current implementation of Intel TBB/ICC and Golang fail to do so, l
 slowdown of 3,000x over the sequential version as shown in the following diagram. 
 
 
-![Alt text](/result.png?raw=true "Result Diagram")
+![Alt text](/results.png?raw=true "Result Diagram")
 
 
 
